@@ -1,0 +1,2 @@
+Outlines currently doesn't support structured JSON generation due to:
+https://github.com/outlines-dev/outlines/issues/637
